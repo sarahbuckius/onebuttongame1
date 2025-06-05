@@ -3,7 +3,7 @@ let deconstructionLevel = 0;
 let link;
 
 function preload() {
-  img = loadImage('image3.png'); // Replace with your image path or URL
+  img = loadImage('image1.png'); // Replace with your image path or URL
 }
 
 function setup() {
